@@ -16,6 +16,10 @@ Primeiramente, crie um arquivo .env a partir do exemplo que está no diretório 
 cp .env.example .env
 ```
 
+Para garantir:
+```
+npm install
+```
 
 Para que seja possível executar o projeto, é necessário instalar o CLI do Adonis.js no seu sistema:
 
